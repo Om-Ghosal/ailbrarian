@@ -1,11 +1,10 @@
 # AI Librarian , your one stop app to make reading fun and intuitive ![Untitled design](https://github.com/user-attachments/assets/4b2c4a65-a91c-48fc-baa1-078a9993a263)
 
-
 ## How to use the App ?
 
 1. Make sure the server is hosted in a Local Area Net!
-work or something similar to that
-2. The app is saved as a .aab file  which is in 'ailibrarian/build/app/outputs/bundle/release/'
+   work or something similar to that
+2. The app is saved as a ""universal.apk" file  which is in apk folder
 3. download it and run the app , and it should work.
 
 ## Things you can do with the app:
